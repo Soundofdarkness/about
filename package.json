@@ -5,7 +5,7 @@
   "version": "1.8.0",
   "description": "View useful information about your Atom installation.",
   "keywords": [],
-  "repository": "https://github.com/atom/about",
+  "repository": "https://github.com/Soundofdarkness/about",
   "license": "MIT",
   "scripts": {
     "lint": "standard"
